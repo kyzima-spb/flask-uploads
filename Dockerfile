@@ -1,4 +1,4 @@
-FROM python:3.7-slim-bookworm
+FROM python:3.13-slim-bookworm
 
 ENV HOME /tmp
 ENV PYTHONPATH /flask-uploader/src
